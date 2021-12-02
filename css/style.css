@@ -65,6 +65,10 @@ footer{
     right: auto;
 }
 
+.btn-close{
+    color: #59124D;
+}
+
 .cartao{
     margin-left: 15%;
 }
