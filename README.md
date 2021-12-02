@@ -1,2 +1,1 @@
-# curriculo
-curriculo
+# https://jarjv.github.io/curriculo/
