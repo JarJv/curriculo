@@ -40,7 +40,6 @@ footer{
 
 .foot_inf{
     display: inline-block;
-    margin-left: 45%;
 }
 
 .textos{
@@ -64,6 +63,16 @@ footer{
     left: auto;
     right: auto;
 }
+
+/*
+.accordion-button:not(.collapsed)::after{
+    background-image: ('img/jao_fav.png');
+}
+
+.accordion-button::after{
+    
+}
+*/
 
 .btn-close{
     color: #59124D;

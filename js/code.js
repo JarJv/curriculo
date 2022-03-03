@@ -1,0 +1,1 @@
+document.querySelector('btnaccord_after').style.filter = 'grayscale(100%)'
